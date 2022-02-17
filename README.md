@@ -23,7 +23,7 @@
 ```
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LORD-Zenix/FOLLOW-BG/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LORD-Zenix/Alphabot4_1/)
 
 ## `CHANGE SESSION`
 
