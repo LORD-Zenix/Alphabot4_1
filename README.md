@@ -22,6 +22,9 @@
 > https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 ```
 
+## `Deploy`
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LORD-Zenix/FOLLOW-BG/)
+
 ## `CHANGE SESSION`
 
 [`Click Here`](https://github.com/zeeoneofc/Alphab0t12/blob/master/session.json#L1)
